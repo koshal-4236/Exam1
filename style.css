@@ -22,3 +22,17 @@ ul li a:active{
     padding: 20px;
     margin: 10px;
 }
+.page4 ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+.page4 ul li{
+    list-style: none;
+}
+.page4 ul li a{
+    text-decoration: none;
+}
+
+
