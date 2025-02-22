@@ -59,3 +59,18 @@ ul li a:active{
     background-color: darkblue;
 }
 
+.ho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.ho  button{
+    width: 150px;
+    height: 50px;
+    
+}
+.ho button:hover{
+    background-color: darkblue;
+    transform: scale(1.2);
+}
