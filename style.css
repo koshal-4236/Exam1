@@ -45,3 +45,17 @@ ul li a:active{
     padding: 20px;
 
 }
+
+.butt button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.butt button:hover {
+    background-color: darkblue;
+}
+
