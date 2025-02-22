@@ -35,4 +35,13 @@ ul li a:active{
     text-decoration: none;
 }
 
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
 
+}
